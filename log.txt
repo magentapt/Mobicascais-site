@@ -1,0 +1,11 @@
+Agencies: Cascais Próxima
+Feed Version: 20260218
+GTFS-to-HTML Version: 2.12.4
+Date Generated: 2026-03-23T04:28:04.336Z
+Timetable Page Count: 94
+Timetable Count: 333
+Calendar Service ID Count: 250
+Route Count: 94
+Trip Count: 6554
+Stop Count: 14263
+Source: https://drive.google.com/uc?export=download&id=13ucYiAJRtu-gXsLa02qKJrGOgDjbnUWX
